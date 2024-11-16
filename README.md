@@ -36,8 +36,8 @@ Este é um projeto de API RESTful construída com Node.js, Express e MongoDB. A 
 ## Configuração do Ambiente
 
    1. Clone o repositório:
-        git clone https://github.com/seu-usuario/seu-repositorio.git
-        cd seu-repositorio
+        git clone https://github.com/Jesbrend/OPA-SUITE-API
+        cd OPA-SUITE-API
    2. Instale as dependências do projeto:
         npm install
    3. Crie um arquivo .env na raiz do projeto e defina as variáveis de ambiente:
